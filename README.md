@@ -1,4 +1,18 @@
-# ud_md
+# Ud_Md By Umar Rehman
+
+
+<img src="https://i.imgur.com/9w8Feiv.jpeg" alt="nz" width="350"/>
+</p>
+
+
+</br>
+
+<a href="https://github.com/umar404"><img title="Author" src="https://img.shields.io/badge/Author-umar404-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
+<a href="https://github.com/umar404"><img title="Stars" src="https://img.shields.io/github/stars/umar404/ud-md?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/umar404/network/members"><img title="Forks" src="https://img.shields.io/github/forks/umar404/ud-md?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/umar404/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/umar404/ud-md?label=watchers&color=54aeff&style=flat-square" /></a> <br>
+
+
 
 
 ## ud_md Ɲᴏᴡᴀ Ɓᴏᴛ ƇᴏᴍIɴɢ Ƨᴏᴏɴ...
@@ -7,6 +21,29 @@
 ƛᴅᴅIɴɢ Ɗᴀᴛᴀʙᴀsᴇ ƛɴᴅ ƑIɴᴀʟIᴢIɴɢ Ʋsᴇʀ Ɓᴏᴛ Ɓᴀsᴇ.
 ■■■■■■■■■■100% Complete 🌸 
 
+
+
+
+
+
+
+## Connect With Me
+
+----
+
+> <a href="http://wa.me/+923165123719?text=Hi Umar +🙈🌸+I'm Your Big Fan🥰+github++INBOX+🤭+Love From me+🪄❢❢_"><img src="https://img.shields.io/badge/CONTACT-UMAR DEVIL-4D009DE2?style=for-the-badge&logo=whatsapp&logoColor=4D009DE2&link=https://www.youtube.com/c/UMARMODS" /><br>
+
+
+----
+
+> <a href="https://www.youtube.com/c/UMARMODS"><img src="https://img.shields.io/badge/Subscribe-My YT Channel-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/UMARMODS" /><br>
+
+----
+
+> <a href="https://github.com/umar404/blob/main/Features.md"><img src="https://img.shields.io/badge/Umar-All Futures-FF0190CF?style=for-the-badge&logo=github&logoColor=FF0190CF&link=https://www.youtube.com/c/UMARMODS" /><br>
+
+
+  </div>
 
 
 
@@ -27,9 +64,4 @@
 
 </details>
 
-  
-
-## ƔIsIᴛᴏʀ 
-<p align="center">
-<img align="center" alt="count" src="https://count.getloli.com/get/@:umar404?theme=rule34">
-</p>
+ 
