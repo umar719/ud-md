@@ -1,2 +1,35 @@
-# devil-umar-md
-𝑺𝒊𝒎𝒑𝒍𝒆 𝑾𝒉𝒂𝒕𝒔𝒂𝒑𝒑 𝑩𝒐𝒕 𝑴𝒖𝒍𝒕𝒊-𝒅𝒆𝒗𝒊𝒄𝒆 𝑫𝒐𝒏'𝒕 𝒇𝒐𝒓𝒈𝒐𝒕 𝒕𝒐 𝒈𝒊𝒗𝒆 𝒔𝒕𝒂𝒓 𝒊𝒇 𝒚𝒐𝒖 𝒄𝒐𝒑𝒚 𝒂𝒏 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝒐𝒇 𝒂𝒏 𝒇𝒊𝒍𝒆. 𝑻𝒉𝒂𝒏𝒌𝒔 𝑻𝒐 𝑴𝒆 😬
+# ud_md
+
+
+## ud_md Ɲᴏᴡᴀ Ɓᴏᴛ ƇᴏᴍIɴɢ Ƨᴏᴏɴ...
+
+>👨🏻‍💻 Ƈᴜʀʀᴇɴᴛ Ƨᴛᴀᴛᴜs :
+ƛᴅᴅIɴɢ Ɗᴀᴛᴀʙᴀsᴇ ƛɴᴅ ƑIɴᴀʟIᴢIɴɢ Ʋsᴇʀ Ɓᴏᴛ Ɓᴀsᴇ.
+■■■■■□□□□□ 50%
+
+
+
+
+
+<details>
+    <summary>「🧧」 <b>Ƒᴏʟʟᴏᴡ Mᴇ Ơɴ</b></summary><br/>
+<p align="center">
+  <a href="https://www.instagram.com/dark-umar404"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://wa.me/923165123719"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/404"><img src="https://img.shields.io/badge/Github-FFF?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/umar404" /></a>
+</p>
+
+</details>
+
+  
+
+## ƔIsIᴛᴏʀ 
+<p align="center">
+<img align="center" alt="count" src="https://count.getloli.com/get/@:umar404?theme=rule34">
+</p>
