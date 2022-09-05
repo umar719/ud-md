@@ -11,14 +11,14 @@ let buttonMessage= {
 'forwardingScore':222,
 'isForwarded':true,
 'externalAdReply':{
-'mediaUrl': 'http://github.com/Kyu/Batao/umar/sai/contact/karoo😹',
+'mediaUrl': 'http://github.com/umar404',
 'mediaType': 2,
 'previewType': 2,
 'title': '𝐷𝛢𝛤𝛫  𝐷𝜩𝛻𝜤𝐿 👑 🇵🇰 ❤️',
 'body': me,
 'thumbnail': thumb2,
 'sourceUrl': 'https://www.youtube.com/c/UMARMODS'}},
-'caption': 'http://github.com/Kyu/Batao/umar/sai/contact/karoo😹',
+'caption': 'http://github.com/umar404',
 'footer': me,
 'buttons':[
 {'buttonId': _p + 'menu','buttonText':{'displayText':'ᴍᴇɴᴜ😈'},'type':1},
