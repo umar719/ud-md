@@ -69,7 +69,7 @@
 # SIMPLE MD & NOWA BOT
 
 ### Thanks To: 
-**All member of [`WhatsAppCode`](https://tinyurl.com/2c7k5wtl) team**
+**All member of [`WhatsAppCode`](https://chat.whatsapp.com/BBQgiM0adHc1m3wM6fEw5Y) team**
 
 #### Special Thanks to
 [![UMAR](https://github.com/umar404.png?size=100)](https://github.com/umar404)
@@ -99,13 +99,13 @@
 --------
 ## NOTE: THIS BOT IS [ESM](https://nodejs.org/api/esm.html) BOT
 > I opened discussiond for asking any problem or new feature, if i agree with that i will invite you in my repo/pull request your idea in this source code :)
-## BASE ORI BY [UMAR](https://github.com/umar404/ud-md/tree/multi-device)
+## BASE BY [UMAR](https://github.com/umar404/ud-md/tree/multi-device)
 --------
 
 
 
 ## _「 ENGLISH 」_
-> You can also recode this bot, it's easy for newbie in code/whatsapp bot, `If you have problem chat me` in [this](http://wa.me/923165123719) or [this one](http://wa.me/4794447747) `NOTE!` if you chat to me impolitely, then I won't answer it, get used to greeting first :)
+> You can also recode this bot, it's easy for newbie in code/whatsapp bot, `If you have problem chat me` in [Click Here](http://wa.me/923165123719) or [this one](http://wa.me/4794447747) `NOTE!` if you chat to me impolitely, then I won't answer it, get used to greeting first :)
 
 #### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/umar404/ud-md)
