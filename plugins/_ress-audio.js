@@ -18,7 +18,6 @@ const size = await yt.audio[q].fileSizeH
   
  await m.reply(`▢ Tɪᴛᴛʟᴇ: ${ttl}
 ▢  Sɪᴢᴇ: ${size}
-
 ▢ Ｌｏａｄｉｎｇ. . .`)
   await conn.sendFile(m.chat, dl_url, ttl + '.mp3', me, m, null, {
     asDocument: false
