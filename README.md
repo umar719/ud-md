@@ -171,7 +171,7 @@ ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
 git clone https://github.com/umar404/ud-md
-cd re-md
+cd ud-md
 npm install
 npm update
 ```
