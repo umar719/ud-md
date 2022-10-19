@@ -1,29 +1,39 @@
 # Ud_Md By Umar Rehman
 
 
-<img src="https://i.imgur.com/9w8Feiv.jpeg" alt="nz" width="350"/>
+
+<div align="center">
+  <img border-radius: 15px src="https://i.imgur.com/9w8Feiv.jpeg" width="200" height="200"/>
+
+<p align="center">
+  <a href="https://instagram.com/dark-umar404"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/923165123719"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 
-</br>
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Umar+Devil+Is+A+Modified+Version+Of;Nowa+By+Ud-Md;We+Have+Cloned+The+Project+And+Added;Some+More+Things."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
 
-<a href="https://github.com/umar404"><img title="Author" src="https://img.shields.io/badge/Author-umar404-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/umar404"><img title="Stars" src="https://img.shields.io/github/stars/umar404/ud-md?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/umar404/network/members"><img title="Forks" src="https://img.shields.io/github/forks/umar404/ud-md?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/umar404/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/umar404/ud-md?label=watchers&color=54aeff&style=flat-square" /></a> <br>
+## ```HOW TO DEPLOY```
+`WATCH THE TUTORIAL VIDEO CAREFULLY TO DEPLOY THE BOT OTHERWISE CHANCES TO GET ERROR`
 
+[`Click Here For Tutorial`](github.com/umar404)
 
+----------
 
+<p align="center">
+  <a href="https://www.youtube.com/c/UMARMODS"
+</p>
 
-## ʏᴏᴜᴛᴜʙᴇ ᴠIᴅᴇᴏ ƇᴏᴍIɴɢ Ƨᴏᴏɴ...
-
->👨🏻‍💻 Ƈᴜʀʀᴇɴᴛ Ƨᴛᴀᴛᴜs :
-ƛᴅᴅIɴɢ Ɗᴀᴛᴀʙᴀsᴇ ƛɴᴅ ƑIɴᴀʟIᴢIɴɢ Ʋsᴇʀ Ɓᴏᴛ Ɓᴀsᴇ.
-■■■■■■■■■■100% Complete 🌸 
-
-
-
-
+-------
+ 
 
 
 
