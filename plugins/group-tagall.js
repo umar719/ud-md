@@ -3,9 +3,9 @@ let handler = async (m, { conn, text, participants }) => {
     m.reply(`${text ? `${text}\n\n` : ''}` + users.map(v => '@' + v.replace(/@.+/, '')).join`\n`, null, { mentions: users })
 }
 
-handler.help = ['tagall']
+handler.help = ['🍫tagall']
 handler.tags = ['group']
-handler.command = /^(tagall)$/i
-handler.admin = handler.group = true
+handler.command = /^(🍫tagall)$/i
+handler.admin =  handler.group = false 
 
 export default handler
