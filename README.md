@@ -21,7 +21,7 @@
     </a>
 </p>
 
-## ```HOW TO DEPLOY```
+## ```HOW TO DEPLOY Watch Bot Tutorial```
 `WATCH THE TUTORIAL VIDEO CAREFULLY TO DEPLOY THE BOT OTHERWISE CHANCES TO GET ERROR`
 
 [`Click Here For Tutorial`](github.com/umar404)
@@ -34,27 +34,16 @@
 
 -------
  
+### Setup
+## Deploy on Replit Simple Method 
+1. Click To 🍫🤍 [FORK](https://github.com/umar404/ud-md/fork)
+2. Click 🍫🤍 [Replit ](https://replit.com/login) And Create A Replit Account
+3. Click 🍫🤍 [Generate Qr](https://replit.com/github/umar404/ud-md) 2nd Generate Qr Code Then Scan Qr Through Whatsapp Linked Devices Option in Your WhatsApp.
+4. If You don't have a account in [Up-Timmer Bot Click](https://uptimerobot.com/), Create A Account For This will make the bot work all the time.
 
+   <a href="https://chat.whatsapp.com/BBQgiM0adHc1m3wM6fEw5Y"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
-
-## Connect With Me
-
-----
-
-> <a href="http://wa.me/+923165123719?text=Hi Umar +🙈🌸+I'm Your Big Fan🥰+github++INBOX+🤭+Love From me+🪄❢❢_"><img src="https://img.shields.io/badge/CONTACT-UMAR DEVIL-4D009DE2?style=for-the-badge&logo=whatsapp&logoColor=4D009DE2&link=https://www.youtube.com/c/UMARMODS" /><br>
-
-
-----
-
-> <a href="https://www.youtube.com/c/UMARMODS"><img src="https://img.shields.io/badge/Subscribe-My YT Channel-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/UMARMODS" /><br>
-
-----
-
-> <a href="https://github.com/umar404/blob/main/Features.md"><img src="https://img.shields.io/badge/Umar-All Futures-FF0190CF?style=for-the-badge&logo=github&logoColor=FF0190CF&link=https://www.youtube.com/c/UMARMODS" /><br>
-
-
-  </div>
-
+> You can also recode this bot, it's easy for newbie in code/whatsapp bot, `If you have problem chat me` in [Click Here](http://wa.me/923165123719) or [this one](http://wa.me/4917396999993) `NOTE!` if you chat to me impolitely, then I won't answer it, get used to greeting first :)
 
 
 
