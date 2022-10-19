@@ -9,9 +9,9 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
   
 let tags = {}
 const defaultMenu = {
-  before: `Hello Janu Hru, ${user} 😹\n\n≻ Date: %date\n≻ Time: %time WIB\n≻ Runtime: %uptime\n%readmore`,
+  before: `🍫Hello Janu Hru, ${user} 😹\n\n≻ Date: %date\n≻ Time: %time WIB\n≻ Runtime: %uptime\n%readmore`,
   header: '╭┉┉┉≻ *“%category”* ≺┉┉┉',
-  body: `┆ \t ➦ _%cmd%islimit%isPremium_ `,
+  body: `┆ \t 🍫 _%cmd%islimit%isPremium_ `,
   footer: '┆',
   after: `╰┉┉┉≻\t _© ${conn.user.name}_ \t`,
 }
@@ -102,7 +102,7 @@ var vid = vi[Math.floor(Math.random() * (vi.length))]
     const totag = { contextInfo: { mentionedJid: [text] }}
 
     let mtag = text + totag
-    // const pp = await conn.profilePictureUrl(conn.user.jid, 'image').catch(_ => './src/avatar_contact.png')
+    // const pp = await conn.profilePictureUrl(conn.user.jid, 'image').catch(_ 🍫> './src/avatar_contact.png')
     // if (m.isGroup) return conn.sendButton(m.chat, text.trim(), conn.getName(conn.user.jid), pp, [['Speedtest', _p + 'ping'], ['Owner', _p + 'owner']], m)
     // conn.sendHydrated(m.chat, text.trim(), conn.getName(conn.user.jid), pp, null, null, null, null, [['Speedtest', _p + 'ping'], ['Owner', _p + 'owner']])
    // conn.sendMessage(m.chat, { video: { url: 'https://telegra.ph/file/c82d5c358495e8ef15916.mp4' }, gifPlayback: true, gifAttribution: ~~(Math.random() * 2), caption: text.trim(), footer: await conn.getName(conn.user.jid) , templateButtons: [{ quickReplyButton: { displayText: 'Speedtest', id: `${_p}ping` }}, { quickReplyButton: { displayText: 'Owner', id: `${_p}owner` }} ] })
@@ -124,10 +124,10 @@ body: me,
 sourceUrl: 'http://s.id/0x404', thumbnail: await( await conn.getFile(ppl)).data
 */
 
-    await m.reply('_ᒪOᒪ ᒪOᗩᗪƖᑎG．．．_')
- await conn.relayMessage(m.chat, { reactionMessage: { key: m.key, text: '✅'  }}, { messageId: m.key.id })
+    await m.reply('_🍫ᒪOᒪ ᒪOᗩᗪƖᑎG．．．_')
+ await conn.relayMessage(m.chat, { reactionMessage: { key: m.key, text: '🍫'  }}, { messageId: m.key.id })
 // Gif button
- /* conn.sendMessage(m.chat, { video: { url: vid }, gifPlayback: true, gifAttribution: ~~(Math.random() * 2), caption: text.trim(), footer: conn.getName('6283820073017@s.whatsapp.net') ,templateButtons: [ { quickReplyButton: { displayText: 'Owner', id: `${_p}owner` }}, { urlButton: { displayText: '𝙎𝘾', url: 'http://github.com/Rlxfly/re-md'} }]})
+ /* conn.sendMessage(m.chat, { video: { url: vid }, gifPlayback: true, gifAttribution: ~~(Math.random() * 2), caption: text.trim(), footer: conn.getName('923165123719@s.whatsapp.net') ,templateButtons: [ { quickReplyButton: { displayText: 'Owner', id: `${_p}owner` }}, { urlButton: { displayText: '𝙎𝘾', url: 'http://github.com/umar404/ud-md'} }]})
 */
 
 
