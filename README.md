@@ -24,7 +24,7 @@
 ## ```HOW TO DEPLOY Watch Bot Tutorial```
 `WATCH THE TUTORIAL VIDEO CAREFULLY TO DEPLOY THE BOT OTHERWISE CHANCES TO GET ERROR`
 
-[`Click Here For Tutorial`](https://github.com/umar404)
+[`Click Here For Tutorial Wait Video Soon InshaAllah`](https://github.com/umar404)
 
 ----------
 
